@@ -2,6 +2,8 @@
 WIP
 Interactive 3D map of LTH in the browser
 
+Link to live version will be published here
+
 # TODO
 - Import 3D models from blender
 - Optimize loading process (draco-loader)
